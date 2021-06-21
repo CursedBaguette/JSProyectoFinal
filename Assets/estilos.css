@@ -1,0 +1,23 @@
+body{
+    
+background-color: #2C3227;
+background-image: url(./Images/dkforest.jpg);
+}
+
+/* .separador{
+    background-image: url(./Images/dkforest.jpg);
+} */
+
+.maing{
+    background-color: black;
+    background-image:url(./Images/lab1.png);
+    height: 1000px;
+    background-size: cover;
+    background-repeat: no-repeat ,no-repeat;
+    background-position: bottom center;
+    background-attachment: absolute;
+    margin-top: 1%;
+    margin-bottom: 1%;
+
+}
+
